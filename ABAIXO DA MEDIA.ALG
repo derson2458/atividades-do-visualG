@@ -1,11 +1,8 @@
 Algoritmo "abaixo da media"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 25/06/2025
+
+
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
    i, n : inteiro
    vet : vetor[0..9] de real
    med : real
@@ -34,5 +31,6 @@ Inicio
          escreval (vet[i]: 2:1)
       fimse
    fimpara
+
 
 Fimalgoritmo
